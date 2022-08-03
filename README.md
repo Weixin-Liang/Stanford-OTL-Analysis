@@ -1,6 +1,6 @@
 # Systematic analysis of 50 years of Stanford University Technology Transfer and Commercialization 
 
-
+[![DOI](https://zenodo.org/badge/520994472.svg)](https://zenodo.org/badge/latestdoi/520994472)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![Pytorch](https://img.shields.io/badge/Pytorch-1.8-red.svg)](https://shields.io/)
